@@ -2,8 +2,11 @@
 
 <h2> Software Development Projects:</h2>
 
-- <b>Hackathon Project</b>
+<b>Hackathon Project:</b>
+
 [AI Physical Therapist](https://github.com/Ophir-Maor/physical-therapist)
+
+<b>Personal Project:</b>
 
 <h2>  Connect with me:</h2>
 
